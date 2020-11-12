@@ -1,4 +1,4 @@
-name: sharer_example
+name: shared_example
 description: Demonstrates how to use the sharer plugin.
 
 # The following line prevents the package from being accidentally published to
