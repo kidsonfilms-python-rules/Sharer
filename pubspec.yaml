@@ -2,7 +2,8 @@ name: sharer
 description: Share data from other apps to Flutter
 version: 1.0.0
 author: Siddharth Ray
-homepage:
+homepage: https://github.com/kidsonfilms-python-rules/Sharer
+repository: https://github.com/kidsonfilms-python-rules/Sharer
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
