@@ -5,7 +5,7 @@ A plugin to get data from other applications.
 ## Installation
 Insert this line in your `pubspec.yaml`:
 ```yaml
-shared: ^1.0.0
+sharer: ^1.0.0
 ```
 
 ## Getting Started (Android Only)
