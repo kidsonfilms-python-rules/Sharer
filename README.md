@@ -1,6 +1,6 @@
 # Shared
 
-A plugin to get data from other applications.
+A Flutter package to get data from other applications.
 
 ## Installation
 Insert this line in your `pubspec.yaml`:
